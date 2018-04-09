@@ -23,7 +23,7 @@ Downsampling also requires the DSTEMPLATE filepath setting.
 
 #Put the 4mm template filepath here
 #DSTEMPLATE = '/u/60/aokorhon/unix/opetus/HCPdata/MNI152_T1_4mm_brain.nii'
-DSTEMPLATE = '/m/cs/scratch/cs-e5700-2017/hcp/brain_networks/HO_masks/MNI152_T1_4mm_brain.nii'
+DSTEMPLATE = '/m/cs/scratch/cs-e5700-2018/hcp/raw_data/HO_masks/MNI152_T1_4mm_brain.nii'
 
 import os
 import sys
